@@ -1,7 +1,8 @@
 # PHPDocker  
 A foundation PHP environment setup.  
 Based on:  
-[Dockerise your PHP application with Nginx and PHP7-FPM](http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/) and [Making your dockerised PHP application even better](http://geekyplatypus.com/making-your-dockerised-php-application-even-better/)  
+[Dockerise your PHP application with Nginx and PHP7-FPM](http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/) and  
+[Making your dockerised PHP application even better](http://geekyplatypus.com/making-your-dockerised-php-application-even-better/)  
 by [Ahmed Khan](http://geekyplatypus.com/about/)
 
 ## Instructions:  
